@@ -1,0 +1,33 @@
+body{
+    background-color: #ce0033;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+h3{
+    position:relative;
+    left: 190px;
+    bottom: 75px;
+}
+
+.container{
+    position: relative;
+    top: 60px;
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    padding: 18px;
+    
+
+}
+
+label{
+    color: rgb(178, 218, 0);
+}
+
+button:hover{
+    color: blue;
+}
